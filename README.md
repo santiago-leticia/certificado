@@ -81,7 +81,7 @@ SQLite online: conhecendo instruções SQL: https://cursos.alura.com.br/certific
 <h2 align="center"> Excel</h2>
 
 Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/6ed237d5-38f4-451f-8f46-09f4c2d45b63?lang=pt_BR
-
+##
 <h2 align="center">análise de dados</h2>
 
 Trabalhando com dados: fundamentos da análise de dados: https://cursos.alura.com.br/certificate/952657f7-666b-476b-98d1-d2f4f58b9b46?lang=pt_BR
