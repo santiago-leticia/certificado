@@ -2,13 +2,13 @@
    certificado
 </h1>
 
-<h2>JavaScript</h2>
+<h2 align="center">JavaScript</h2>
 
 https://cursos.alura.com.br/degree/certificate/dfdb3031-863b-40b6-981a-5e0330a59110?lang
 
 https://cursos.alura.com.br/certificate/ce4025ba-3fc3-4bc4-8dfa-110d9b9217c5?lang=pt_BR
 
-<h2>Logica de Programacao</h2>
+<h2 align="center">Logica de Programacao</h2>
 
 Lógica de programação: mergulhe em programação com JavaScript: https://cursos.alura.com.br/certificate/74c3a678-97fb-4cbb-b822-578d304c740a?lang=pt_BR
 
@@ -24,7 +24,7 @@ Pensamento computacional: fundamentos da computação e lógica de programação
 
 Redes e Protocolos: fundamentos da web: https://cursos.alura.com.br/certificate/8f5453c4-b24a-4942-a1c8-f9fdec093e9b?lang=pt_BR
 
-<h2>Python</h2>
+<h2 align="center">Python</h2>
 
 Python para Dados: primeiros passos: https://cursos.alura.com.br/certificate/364fd444-3c36-4233-85bf-2ef3574db338?lang=pt_BR
 
@@ -42,7 +42,7 @@ Estatística com Python: frequências e medidas: https://cursos.alura.com.br/cer
 
 Python: persistência de dados com arquivos, bancos de dados e APIs REST: https://cursos.alura.com.br/certificate/d9117dc0-171d-406c-880f-bc5a95affd46?lang=pt_BR
 
-<h2>Pandas</h2>
+<h2 align="center">Pandas</h2>
 
 Pandas: conhecendo a biblioteca: https://cursos.alura.com.br/certificate/4f2b6218-1469-4e06-8be0-c727321b74ae?lang=pt_BR
 
@@ -58,31 +58,31 @@ Java: trabalhando com listas e coleções de dados: https://cursos.alura.com.br/
 
 Java: consumindo API, gravando arquivos e lidando com erros: https://cursos.alura.com.br/certificate/5645192e-8f49-42c4-8c24-f5c12a919698?lang=pt_BR
 
-<h2>Cloud</h2>
+<h2 align="center">Cloud</h2>
 
 Multicloud: da migração à otimização de custos: https://cursos.alura.com.br/certificate/f6c14442-411c-44d8-abff-e7a1c696e733?lang=pt_BR
 
 MultiCloud: entendendo os desafios e soluções: https://cursos.alura.com.br/certificate/6f98a04f-d4a6-4382-b834-c4286bffd9a6?lang=pt_BR
 
-## Cibersegurança
+<h2 align="center">Cibersegurança</h2>
 
 Cibersegurança: Fundamentos e práticas integradas: https://cursos.alura.com.br/certificate/c836dd48-e721-4dfd-b654-f302b796feab?lang=pt_BR
 
-<h2>C#</h2>
+<h2 align="center">C#</h2>
 
 C#: criando sua primeira aplicação: https://cursos.alura.com.br/certificate/4e3c21d4-fa04-4087-87c8-ad511124e776?lang=pt_BR
 
 C#: aplicando a Orientação a Objetos: https://cursos.alura.com.br/certificate/552e4c72-39ba-43b9-971a-b7045f7dd6fe?lang=pt_BR
 
-<h2>SQL</h2>
+<h2 align="center">SQL</h2>
 
 SQLite online: conhecendo instruções SQL: https://cursos.alura.com.br/certificate/e297d079-c6f7-4b7c-bf69-a68a2f4fb842?lang=pt_BR
 
-<h2> Excel</h2>
+<h2 align="center"> Excel</h2>
 
 Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/6ed237d5-38f4-451f-8f46-09f4c2d45b63?lang=pt_BR
 
-<h2>análise de dados</h2>
+<h2 align="center">análise de dados</h2>
 
 Trabalhando com dados: fundamentos da análise de dados: https://cursos.alura.com.br/certificate/952657f7-666b-476b-98d1-d2f4f58b9b46?lang=pt_BR
 
