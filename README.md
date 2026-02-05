@@ -1,8 +1,8 @@
-<h1>
+<h1 align="center">
    certificado
 </h1>
 
-##
+
 <h2 align="center">JavaScript</h2>
 
 https://cursos.alura.com.br/degree/certificate/dfdb3031-863b-40b6-981a-5e0330a59110?lang
