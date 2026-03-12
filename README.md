@@ -45,6 +45,28 @@ Estatística com Python: frequências e medidas: https://cursos.alura.com.br/cer
 
 Python: persistência de dados com arquivos, bancos de dados e APIs REST: https://cursos.alura.com.br/certificate/d9117dc0-171d-406c-880f-bc5a95affd46?lang=pt_BR
 
+Praticando Python: Strings e Regex: https://cursos.alura.com.br/certificate/0a088ddf-ca19-425f-811a-43db4fdaf63c?lang=pt_BR
+
+Praticando Python: trabalhando com projetos: https://cursos.alura.com.br/certificate/58f23c41-dcf4-428b-a8dc-dce8fe86155e?lang=pt_BR
+
+Praticando Python: funções : https://cursos.alura.com.br/certificate/570551c0-2380-4270-89fd-9e81f379298c?lang=pt_BR
+
+Praticando Python: laços for e while : https://cursos.alura.com.br/certificate/f3bf9440-e510-42bd-a79b-4cffc08c0d39?lang=pt_BR
+
+Praticando Python: condicionais if, elif e else: https://cursos.alura.com.br/certificate/2f38d11d-30a6-484d-8226-2763c603b78c?lang=pt_BR
+
+##
+
+<h2 align="center">Flask</h2>
+
+Flask: desenvolvendo APIs e aplicações web com MongoDB: https://cursos.alura.com.br/certificate/e127071a-0e1e-4671-aaeb-bd30970b51a0?lang=pt_BR
+
+##
+
+<h2 align="center">Django</h2>
+
+Django: templates e boas práticas: https://cursos.alura.com.br/certificate/14d66b59-e1ae-41e1-b1be-a8a9360f2aa3?lang=pt_BR
+
 ##
 <h2 align="center">Pandas</h2>
 
