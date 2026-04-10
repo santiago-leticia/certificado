@@ -55,6 +55,8 @@ Praticando Python: laços for e while : https://cursos.alura.com.br/certificate/
 
 Praticando Python: condicionais if, elif e else: https://cursos.alura.com.br/certificate/2f38d11d-30a6-484d-8226-2763c603b78c?lang=pt_BR
 
+Django: templates e boas práticas -> https://cursos.alura.com.br/certificate/14d66b59-e1ae-41e1-b1be-a8a9360f2aa3?lang=pt_BR
+
 ##
 
 <h2 align="center">Flask</h2>
@@ -84,6 +86,11 @@ Java: aplicando a Orientação a Objetos: https://cursos.alura.com.br/certificat
 Java: trabalhando com listas e coleções de dados: https://cursos.alura.com.br/certificate/211322e5-f908-41d1-94b2-734b00b5e0f9?lang=pt_BR
 
 Java: consumindo API, gravando arquivos e lidando com erros: https://cursos.alura.com.br/certificate/5645192e-8f49-42c4-8c24-f5c12a919698?lang=pt_BR
+
+Java: trabalhando com lambdas, streams e Spring Framework -> https://cursos.alura.com.br/certificate/df8cf9e9-7f51-46ae-a65e-9df676e60577?lang=pt_BR
+
+Praticando Java: variáveis e tipos -> https://cursos.alura.com.br/certificate/4825838c-bae4-44c7-adba-f2242bebe0cd?lang=pt_BR
+
 
 ##
 <h2 align="center">Cloud</h2>
