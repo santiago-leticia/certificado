@@ -111,6 +111,8 @@ C#: criando sua primeira aplicação: https://cursos.alura.com.br/certificate/4e
 
 C#: aplicando a Orientação a Objetos: https://cursos.alura.com.br/certificate/552e4c72-39ba-43b9-971a-b7045f7dd6fe?lang=pt_BR
 
+Certificação em Desenvolvimento .NET - Fiap : https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2e54342bbafbcd2516250d37aec5bc88&action=view
+
 ##
 <h2 align="center">SQL</h2>
 
