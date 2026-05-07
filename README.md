@@ -128,6 +128,10 @@ Excel: domine o editor de planilhas: https://cursos.alura.com.br/certificate/6ed
 
 Trabalhando com dados: fundamentos da análise de dados: https://cursos.alura.com.br/certificate/952657f7-666b-476b-98d1-d2f4f58b9b46?lang=pt_BR
 
+<h2 align="center">Android</h2>
+
+Certificação em Android: https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=9edb05f0c6a93e1efb6b18f3efb478ca&action=view
+
 
 
 
